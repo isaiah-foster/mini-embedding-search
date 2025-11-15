@@ -1,0 +1,32 @@
+linear algebra is the study of vectors matrices and the transformations that act on them
+a vector can represent a point a direction or a state depending on the space it belongs to
+matrices describe how vectors are rotated stretched reflected or projected in a vector space
+when a matrix multiplies a vector it applies a linear transformation that preserves lines and ratios
+the dot product measures similarity between vectors by comparing their directions
+orthogonal vectors have a dot product of zero meaning they share no directional component
+the length or norm of a vector is computed from its dot product with itself
+a basis is a minimal set of vectors that span all possible points in a space
+changing basis rewrites vectors using a different coordinate system while preserving their meaning
+matrix multiplication composes two transformations into a single operation
+the identity matrix performs no change and represents doing nothing to a vector
+an inverse matrix reverses the effect of a transformation whenever the matrix is invertible
+rank reveals the dimension of the space created by the columns of a matrix
+the column space is the set of all vectors that can be reached by multiplying the matrix by some vector
+the null space consists of all vectors that the matrix collapses to zero
+eigenvalues and eigenvectors identify directions a matrix scales without rotating
+diagonalization expresses a matrix in a coordinate system where it acts by scaling each basis vector
+symmetric matrices guarantee real eigenvalues and orthogonal eigenvectors
+the singular value decomposition expresses any matrix as rotations and scalings along orthogonal axes
+projection maps a vector onto a subspace often to find the closest point in that space
+least squares solves systems that have no exact solution by minimizing the error of approximation
+gradients point in the direction a function increases most rapidly
+gradient descent moves opposite the gradient to reduce the value of a function and find minima
+softmax converts arbitrary scores into probabilities that sum to one
+cosine similarity compares vectors based on the angle between them making direction more important than magnitude
+embedding models place words or objects into a high dimensional vector space where meaning corresponds to direction
+training embeddings adjusts the positions of vectors so that related words become close to each other
+in machine learning linear algebra is the language of optimization geometry and representation
+vector spaces appear in graphics physics machine learning and many areas of engineering
+transformations in linear algebra allow us to model scaling rotation projection and change of coordinates
+a matrix can encode how a camera views a scene how data is compressed or how neurons interact in a network
+understanding eigenvectors helps explain stable directions of motion population growth and iterative algorithms
